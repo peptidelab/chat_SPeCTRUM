@@ -1,3 +1,3 @@
-# chat_SPeCTRUM
-This is a public domain for SPeCTRUM AURA ScholarGPT
-Changing any information here will render the chat unusable.
+# AURA ScholarGPT for SPeCTRUM
+This is a public domain for SPeCTRUM AURA ScholarGPT <br>
+Changing any information here will render the chat unusable. <br>
